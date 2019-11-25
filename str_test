@@ -1,0 +1,6 @@
+str_test = "abcde"
+
+if 'abc' in str_test:
+    print("OK")
+else:
+    print("NG")
